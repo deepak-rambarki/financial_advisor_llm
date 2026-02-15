@@ -10,8 +10,6 @@ Chatbot built as a Financial Advisor using a 3-pipeline architecture. As an AI E
 
 This project serves as a practical implementation based on the course "Learn to Train and Deploy a Real-Time Financial Advisor".
 
-The source code used as a reference for this implementation can be found [here](https://github.com/iusztinpaul/hands-on-llms/tree/main).
-
 ## Main Technologies Used
 
 ### Libraries
